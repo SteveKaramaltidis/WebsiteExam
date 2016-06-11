@@ -1,25 +1,39 @@
-<!DOCTYPE html>
 <html>
     <head>
         <style>
-            p{
-                color: black;
-            }
+			h{}
             .funkyclass {
-                color: green;
+                color:white;
+				font-family: fantasy;
             }
 			.topC{
-				background-color:coral;
+				background-color:#6b7767;
 			}
+			ul{
+				list-style: none;
+				color:#fca530;
+			}
+			ol{
+				list-style:outside;
+				text-align: justify;
+				color: #28343c;
+			}
+			h2{
+				color:whitesmoke;
+				
+			}
+			body {
+				background: url(rvack.jpg) no-repeat center center fixed; 
+  				-webkit-background-size: cover;
+				-moz-background-size: cover;
+				-o-background-size: cover;
+  				background-size: cover;
+			}
+			p{
+                color:white;
+            }
         </style>
     </head>
 <body>
-
-
-
-
-
-
-
 </body>
 </html>
